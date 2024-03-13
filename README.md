@@ -26,12 +26,11 @@ Follow these steps to set up and run the Stori Challenge:
 
 Clone the Repository: Clone the Stori Challenge repository to your local machine:
 ```
-git clone <repository_url>
+git clone https://github.com/dederico/stori.git
 cd stori_challenge
 ```
 Create Directories: Create the necessary directories for the project:
 ```
-mkdir assets
 mkdir src
 cd src
 ```
