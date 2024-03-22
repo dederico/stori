@@ -1,5 +1,1 @@
-smtplib
-email
-sqlite3
-email-mime-text
-email-mime-multipart
+
